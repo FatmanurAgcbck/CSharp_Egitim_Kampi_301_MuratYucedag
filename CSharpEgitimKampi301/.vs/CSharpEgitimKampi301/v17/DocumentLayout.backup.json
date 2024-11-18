@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{184BCA27-68CB-4EE0-A003-604C5288DE32}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184BCA27-68CB-4EE0-A003-604C5288DE32}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184BCA27-68CB-4EE0-A003-604C5288DE32}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184BCA27-68CB-4EE0-A003-604C5288DE32}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184BCA27-68CB-4EE0-A003-604C5288DE32}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\iadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184BCA27-68CB-4EE0-A003-604C5288DE32}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\iadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184BCA27-68CB-4EE0-A003-604C5288DE32}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184BCA27-68CB-4EE0-A003-604C5288DE32}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184BCA27-68CB-4EE0-A003-604C5288DE32}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184BCA27-68CB-4EE0-A003-604C5288DE32}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184BCA27-68CB-4EE0-A003-604C5288DE32}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184BCA27-68CB-4EE0-A003-604C5288DE32}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,80 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ICustomerDal.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICustomerDal.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICustomerDal.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICustomerDal.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICustomerDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwD8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T16:41:38.183Z",
+              "WhenOpened": "2024-11-18T19:38:23.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IOrderDal.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IOrderDal.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IOrderDal.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IOrderDal.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IOrderDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T16:41:08.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAdminDal.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IAdminDal.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IAdminDal.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IAdminDal.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IAdminDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T16:40:31.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IProductDal.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IProductDal.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IProductDal.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IProductDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T16:40:02.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICategoryDal.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICategoryDal.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICategoryDal.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICategoryDal.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICategoryDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T16:39:09.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGenericDal.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:58:37.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:31:24.113Z",
+              "EditorCaption": " [Tasar\u0131m]"
             }
           ]
         }

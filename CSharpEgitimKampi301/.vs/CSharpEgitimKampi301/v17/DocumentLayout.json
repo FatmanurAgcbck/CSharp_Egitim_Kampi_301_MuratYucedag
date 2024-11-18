@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwD8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:38:23.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:31:24.113Z",
+              "EditorCaption": " [Tasar\u0131m]"
             }
           ]
         }
