@@ -62,9 +62,9 @@
             // 
             // btnList
             // 
-            this.btnList.BackColor = System.Drawing.Color.LightSalmon;
+            this.btnList.BackColor = System.Drawing.Color.SteelBlue;
             this.btnList.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnList.Location = new System.Drawing.Point(176, 219);
+            this.btnList.Location = new System.Drawing.Point(106, 236);
             this.btnList.Name = "btnList";
             this.btnList.Size = new System.Drawing.Size(166, 47);
             this.btnList.TabIndex = 2;
@@ -108,9 +108,9 @@
             // 
             // btnAdd
             // 
-            this.btnAdd.BackColor = System.Drawing.Color.Salmon;
+            this.btnAdd.BackColor = System.Drawing.Color.SteelBlue;
             this.btnAdd.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnAdd.Location = new System.Drawing.Point(176, 272);
+            this.btnAdd.Location = new System.Drawing.Point(106, 289);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(166, 47);
             this.btnAdd.TabIndex = 8;
@@ -120,9 +120,9 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.BackColor = System.Drawing.Color.Coral;
+            this.btnDelete.BackColor = System.Drawing.Color.SteelBlue;
             this.btnDelete.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnDelete.Location = new System.Drawing.Point(176, 325);
+            this.btnDelete.Location = new System.Drawing.Point(106, 342);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(166, 47);
             this.btnDelete.TabIndex = 9;
@@ -132,9 +132,9 @@
             // 
             // btnUpdate
             // 
-            this.btnUpdate.BackColor = System.Drawing.Color.Chocolate;
+            this.btnUpdate.BackColor = System.Drawing.Color.SteelBlue;
             this.btnUpdate.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnUpdate.Location = new System.Drawing.Point(176, 378);
+            this.btnUpdate.Location = new System.Drawing.Point(106, 395);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(166, 47);
             this.btnUpdate.TabIndex = 10;
@@ -144,9 +144,9 @@
             // 
             // btnGetById
             // 
-            this.btnGetById.BackColor = System.Drawing.Color.SaddleBrown;
+            this.btnGetById.BackColor = System.Drawing.Color.SteelBlue;
             this.btnGetById.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnGetById.Location = new System.Drawing.Point(176, 431);
+            this.btnGetById.Location = new System.Drawing.Point(106, 448);
             this.btnGetById.Name = "btnGetById";
             this.btnGetById.Size = new System.Drawing.Size(166, 47);
             this.btnGetById.TabIndex = 11;
