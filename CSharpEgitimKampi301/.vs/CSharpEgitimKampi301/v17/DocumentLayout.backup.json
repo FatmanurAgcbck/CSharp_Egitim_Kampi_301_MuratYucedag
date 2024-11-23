@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmlocationcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmlocationcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmlocationcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmlocationcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D4C9A5-EE41-4B14-AAB7-FAFCC1F79706}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +26,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAD4vz0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FrmStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBoAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:06:59.132Z",
+              "WhenOpened": "2024-11-23T14:09:27.161Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:06:55.597Z",
-              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmLocationcs.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocationcs.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmLocationcs.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocationcs.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmLocationcs.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAD4v08AAABMAAAAAAAAAA==",
+              "Title": "FrmStatistics.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:27:18.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmLocationcs.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocationcs.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmLocationcs.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocationcs.cs [Tasar\u0131m]",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmLocationcs.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:15:53.136Z",
+              "WhenOpened": "2024-11-23T13:58:58.151Z",
               "EditorCaption": " [Tasar\u0131m]"
             }
           ]

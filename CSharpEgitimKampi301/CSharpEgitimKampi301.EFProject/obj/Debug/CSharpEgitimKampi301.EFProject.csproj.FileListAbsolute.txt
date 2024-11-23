@@ -14,3 +14,4 @@ C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_301_MuratYucedag
 C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_301_MuratYucedag\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.exe
 C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_301_MuratYucedag\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.pdb
 C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_301_MuratYucedag\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmLocationcs.resources
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_301_MuratYucedag\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmStatistics.resources
