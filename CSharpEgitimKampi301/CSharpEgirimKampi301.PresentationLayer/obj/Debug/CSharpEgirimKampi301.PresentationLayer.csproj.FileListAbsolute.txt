@@ -21,3 +21,4 @@ C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_301_MuratYucedag
 C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_301_MuratYucedag\CSharpEgitimKampi301\CSharpEgirimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
 C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_301_MuratYucedag\CSharpEgitimKampi301\CSharpEgirimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
 C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_301_MuratYucedag\CSharpEgitimKampi301\CSharpEgirimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_301_MuratYucedag\CSharpEgitimKampi301\CSharpEgirimKampi301.PresentationLayer\obj\Debug\CSharpEgirimKampi301.PresentationLayer.FrmProduct.resources
