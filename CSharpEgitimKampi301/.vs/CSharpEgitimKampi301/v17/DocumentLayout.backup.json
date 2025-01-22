@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\",
+  "WorkspaceRootPath": "C:\\Users\\fatma\\Desktop\\Dosyalar\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DFFB130-4033-4CC4-895E-7A0F34433215}|CSharpEgirimKampi301.PresentationLayer\\CSharpEgirimKampi301.PresentationLayer.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegirimkampi301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7DFFB130-4033-4CC4-895E-7A0F34433215}|CSharpEgirimKampi301.PresentationLayer\\CSharpEgirimKampi301.PresentationLayer.csproj|c:\\users\\fatma\\desktop\\dosyalar\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegirimkampi301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7DFFB130-4033-4CC4-895E-7A0F34433215}|CSharpEgirimKampi301.PresentationLayer\\CSharpEgirimKampi301.PresentationLayer.csproj|solutionrelative:csharpegirimkampi301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DFFB130-4033-4CC4-895E-7A0F34433215}|CSharpEgirimKampi301.PresentationLayer\\CSharpEgirimKampi301.PresentationLayer.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegirimkampi301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DFFB130-4033-4CC4-895E-7A0F34433215}|CSharpEgirimKampi301.PresentationLayer\\CSharpEgirimKampi301.PresentationLayer.csproj|solutionrelative:csharpegirimkampi301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DFFB130-4033-4CC4-895E-7A0F34433215}|CSharpEgirimKampi301.PresentationLayer\\CSharpEgirimKampi301.PresentationLayer.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegirimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7DFFB130-4033-4CC4-895E-7A0F34433215}|CSharpEgirimKampi301.PresentationLayer\\CSharpEgirimKampi301.PresentationLayer.csproj|solutionrelative:csharpegirimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DFFB130-4033-4CC4-895E-7A0F34433215}|CSharpEgirimKampi301.PresentationLayer\\CSharpEgirimKampi301.PresentationLayer.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_301_muratyucedag\\csharpegitimkampi301\\csharpegirimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DFFB130-4033-4CC4-895E-7A0F34433215}|CSharpEgirimKampi301.PresentationLayer\\CSharpEgirimKampi301.PresentationLayer.csproj|solutionrelative:csharpegirimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 224,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,49 +22,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmCategory.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgirimKampi301.PresentationLayer\\FrmCategory.cs",
-              "RelativeDocumentMoniker": "CSharpEgirimKampi301.PresentationLayer\\FrmCategory.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgirimKampi301.PresentationLayer\\FrmCategory.cs",
-              "RelativeToolTip": "CSharpEgirimKampi301.PresentationLayer\\FrmCategory.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:32:21.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmCategory.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgirimKampi301.PresentationLayer\\FrmCategory.cs",
-              "RelativeDocumentMoniker": "CSharpEgirimKampi301.PresentationLayer\\FrmCategory.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgirimKampi301.PresentationLayer\\FrmCategory.cs [Tasar\u0131m]",
-              "RelativeToolTip": "CSharpEgirimKampi301.PresentationLayer\\FrmCategory.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:32:19.564Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmProduct.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgirimKampi301.PresentationLayer\\FrmProduct.cs",
-              "RelativeDocumentMoniker": "CSharpEgirimKampi301.PresentationLayer\\FrmProduct.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgirimKampi301.PresentationLayer\\FrmProduct.cs",
-              "RelativeToolTip": "CSharpEgirimKampi301.PresentationLayer\\FrmProduct.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:26:40.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmProduct.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgirimKampi301.PresentationLayer\\FrmProduct.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\Dosyalar\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgirimKampi301.PresentationLayer\\FrmProduct.cs",
               "RelativeDocumentMoniker": "CSharpEgirimKampi301.PresentationLayer\\FrmProduct.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgirimKampi301.PresentationLayer\\FrmProduct.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\Dosyalar\\Reposito\\CSharp_Egitim_Kampi_301_MuratYucedag\\CSharpEgitimKampi301\\CSharpEgirimKampi301.PresentationLayer\\FrmProduct.cs [Tasar\u0131m]",
               "RelativeToolTip": "CSharpEgirimKampi301.PresentationLayer\\FrmProduct.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T12:49:36.055Z",
